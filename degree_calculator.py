@@ -39,7 +39,7 @@ def identify_c_or_f ():
         
     else:
         label_3['text'] = 'You entered: '+var_e_1.get()+'°F'
-        label_1['text'] = ''
+        label_1['text'] = ''    
         
 #--------------------
 #variables
